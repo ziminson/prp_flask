@@ -1,0 +1,19 @@
+# мега-учебник Фласка на русском
+https://habr.com/ru/post/346306/
+
+# основной сайт
+https://flask.palletsprojects.com/en/2.2.x/
+
+# то, что мы делали на английском (переводчик в помощь, если что)
+https://towardsdatascience.com/video-streaming-in-web-browsers-with-opencv-flask-93a38846fe00
+
+# генераторы для детсадика
+https://habr.com/ru/post/560300/
+
+# еще чуть-чуть о генераторах
+https://skillbox.ru/media/code/generatory_python_chto_eto_takoe_i_zachem_oni_nuzhny/
+
+# 
+#
+#
+#
