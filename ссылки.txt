@@ -13,7 +13,12 @@ https://habr.com/ru/post/560300/
 # еще чуть-чуть о генераторах
 https://skillbox.ru/media/code/generatory_python_chto_eto_takoe_i_zachem_oni_nuzhny/
 
-# 
-#
+# отсюда я взял код джойстика
+https://github.com/bobboteck/JoyStick
+
+#ютубные уроки
+https://www.youtube.com/watch?v=MAjbzx2zq-c
+https://www.youtube.com/watch?v=i_-m1kBTdBI
+
 #
 #
